@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ankita Mahaseth",
+    "email": "ankita.mahaseth@example.com",
+    "password": "Ankita@123",
+    "role": "ADMIN"
+  },
+  {
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "password": "Rahul@123",
+    "role": "USER"
+  },
+  {
+    "name": "Priya Singh",
+    "email": "priya.singh@example.com",
+    "password": "Priya@123",
+    "role": "USER"
+  },
+  {
+    "name": "Amit Kumar",
+    "email": "amit.kumar@example.com",
+    "password": "Amit@123",
+    "role": "USER"
+  },
+  {
+    "name": "Neha Verma",
+    "email": "neha.verma@example.com",
+    "password": "Neha@123",
+    "role": "MANAGER"
+  }
+]
