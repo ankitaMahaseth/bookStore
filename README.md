@@ -33,7 +33,7 @@ This project helps users browse, add, update, and manage books through a clean a
 ---
 
 ## 📂 Project Structure
-
+```
 bookStore/
 ├── client/              
 │   ├── src/
@@ -46,7 +46,7 @@ bookStore/
 │   ├── routes/
 │   ├── models/
 │   └── server.js
-
+```
 ---
 
 ## ⚙️ Installation & Setup
